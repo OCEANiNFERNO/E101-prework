@@ -41,6 +41,3 @@ def interface():
 while loop:
     interface()
     loop = interface()
-
-print("Messi better")
- 
